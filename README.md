@@ -19,4 +19,4 @@ A full-stack task management web application built using Flask and SQLite.
 1. Clone repo
 2. pip install flask
 3. python app.py
-4. Open http://127.0.0.1:5000
+4. Open http://127.0.0.1:5000/

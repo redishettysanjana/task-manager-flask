@@ -52,9 +52,5 @@ pip install flask
 python app.py
 
 
-## Live Demo
+**## Live Demo**
 https://task-manager-flask-jpn6.onrender.com
-
-## Live Demo
-**https://task-manager-flask-jpn6.onrender.com**
-
